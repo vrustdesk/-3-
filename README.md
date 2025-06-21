@@ -29,6 +29,7 @@
 rsync -av --delete /home/mhdr5/ /tmp/backup >> /var/log/cron.log
 
 Файл crontab
+
 ![image](https://github.com/user-attachments/assets/3dab02d4-ef99-4fc0-a2c5-31cd7167b88a)
 
 Результаты работы утилиты
